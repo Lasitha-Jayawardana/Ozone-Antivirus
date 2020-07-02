@@ -1,0 +1,11 @@
+Line 18: Class XtremeSuiteControls.TabControl of control TabControl1 was not a loaded control class.
+Line 72: Class FormCutterOCX.FormCutter of control FormCutter1 was not a loaded control class.
+Line 24: The property name _Version in TabControl1 is invalid.
+Line 25: The property name _ExtentX in TabControl1 is invalid.
+Line 26: The property name _ExtentY in TabControl1 is invalid.
+Line 27: The property name _StockProps in TabControl1 is invalid.
+Line 29: The property name Color in TabControl1 is invalid.
+Line 30: The property name PaintManager.ShowTabs in TabControl1 is invalid.
+Line 18: Property Appearance in TabControl1 could not be set.
+Line 75: The property name _ExtentX in FormCutter1 is invalid.
+Line 76: The property name _ExtentY in FormCutter1 is invalid.
