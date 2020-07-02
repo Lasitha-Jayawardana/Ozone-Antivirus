@@ -1,0 +1,41 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Ozone Antiviral 13.1.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Ozone Antiviral 13.1.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"psapi.dll"
+"scrrun.dll"
+"msvcrt.dll"
+"Codejock.Controls.v12.0.0.ocx"
+"FormCutter.ocx"
+"Mscomctl.ocx"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"XPProgressBar.ocx"
+"SystemTray.ocx"
+"TABCTL32.OCX"
+"ButtonXP.ocx"
+"Codejock.SkinFramework.v13.0.0.ocx"
+"COMDLG32.OCX"
+"wmp.dll"
+"MBBrowse.ocx"
+"MSWINSCK.OCX"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
